@@ -118,7 +118,7 @@ Page({
               }
               wx.showToast({
                 title: toastText,
-                duration:200
+                duration:2000
               })
               
             }
